@@ -1,8 +1,6 @@
 ### gd014-proj
 ### Getting and Clearning Data Course Project
 
-### scott hill
-
 ### Abstract:
 ### Processing the human activity recognition using smartphones data set
 ### https://d396https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
